@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://saikrishnanewdev.github.io/csb-u1sjuc/static/css/main.6d7e05fb.chunk.css",
+    "main.js": "https://saikrishnanewdev.github.io/csb-u1sjuc/static/js/main.ad70e3e2.chunk.js",
+    "main.js.map": "https://saikrishnanewdev.github.io/csb-u1sjuc/static/js/main.ad70e3e2.chunk.js.map",
+    "runtime-main.js": "https://saikrishnanewdev.github.io/csb-u1sjuc/static/js/runtime-main.ccfb60e2.js",
+    "runtime-main.js.map": "https://saikrishnanewdev.github.io/csb-u1sjuc/static/js/runtime-main.ccfb60e2.js.map",
+    "static/js/2.8523882c.chunk.js": "https://saikrishnanewdev.github.io/csb-u1sjuc/static/js/2.8523882c.chunk.js",
+    "static/js/2.8523882c.chunk.js.map": "https://saikrishnanewdev.github.io/csb-u1sjuc/static/js/2.8523882c.chunk.js.map",
+    "index.html": "https://saikrishnanewdev.github.io/csb-u1sjuc/index.html",
+    "static/css/main.6d7e05fb.chunk.css.map": "https://saikrishnanewdev.github.io/csb-u1sjuc/static/css/main.6d7e05fb.chunk.css.map",
+    "static/js/2.8523882c.chunk.js.LICENSE.txt": "https://saikrishnanewdev.github.io/csb-u1sjuc/static/js/2.8523882c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ccfb60e2.js",
+    "static/js/2.8523882c.chunk.js",
+    "static/css/main.6d7e05fb.chunk.css",
+    "static/js/main.ad70e3e2.chunk.js"
+  ]
+}
